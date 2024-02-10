@@ -22,7 +22,7 @@
 
 <p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;">Proper first aid always comes across as a big respite when handling different health and medical emergencies. Besides saving the injured person's life, it helps make the recovery process faster, saves huge healthcare costs, and prevents the likelihood of injury from getting worse.</p>
 
-<h3 style="color:#333399;text-align:left; font-size:30px;padding: 2px 20px 2px 20px;">Prepare Yourself with the Right Gear</h2>
+<h3 style="color:#333399;text-align:left; font-size:30px;padding: 2px 20px 2px 20px;">Prepare Yourself with the Right Gear</h3>
 
 
 <p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;">Emergency or first aid kits differ in contents, but the most important are:</p>
@@ -133,11 +133,11 @@
   
 </ul>
 
-<img src="burn.png"></img>
+<img src="burn.png">
 
 <h6 style="background-color:#333399;color:white;text-align:left; font-size:30px;padding: 2px 20px 2px 20px;margin-top:40px;">3. Treating Cuts and Scrapes</h6>
 
-<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:-50px;">Blood is a vital component of our bodies. When someone is bleeding, you want to prevent as much blood from leaving their body as possible. Try and find a clean cloth or bandage. </p>
+<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:-30px;">Blood is a vital component of our bodies. When someone is bleeding, you want to prevent as much blood from leaving their body as possible. Try and find a clean cloth or bandage. </p>
 
 <p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:10px;"><b>Then:</b>
 
@@ -164,7 +164,7 @@
 
 <h6 style="background-color:#333399;color:white;text-align:left; font-size:30px;padding: 2px 20px 2px 20px;margin-top:40px;">4. Treating Heat Exhaustion</h6>
 
-<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:-50px;">Heat exhaustion occurs due to prolonged exposure to high temperatures, especially when the person is doing strenuous activities or hasn’t had enough WATER.</p>
+<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:-30px;">Heat exhaustion occurs due to prolonged exposure to high temperatures, especially when the person is doing strenuous activities or hasn’t had enough WATER.</p>
 
 <p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:10px;"><b>Symptoms of Heat Exhaustion include:</b>
 
@@ -191,9 +191,9 @@
 
 <h6 style="background-color:#333399;color:white;text-align:left; font-size:30px;padding: 2px 20px 2px 20px;margin-top:40px;">5. Treating Fractures</h6>
 
-<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:-50px;">Sometimes it’s very easy to tell if someone has suffered a fractured bone. But sometimes it’s not.</p>
+<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:-30px;">Sometimes it’s very easy to tell if someone has suffered a fractured bone. But sometimes it’s not.</p>
 
-<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:10px;"><b>If you suspect someone of having a fracture:</p></b>
+<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:10px;"><b>If you suspect someone of having a fracture:</b>
 
 <ul style="font-size:20px;padding: 2px 20px 2px 20px;background-color:#82CAFF">
   <li>Don’t try to straighten a fractured limb.</li>
@@ -207,7 +207,7 @@
 
 <h6 style="background-color:#333399;color:white;text-align:left; font-size:30px;padding: 2px 20px 2px 20px;margin-top:40px;">6. Choking Maneuver</h6>
 
-<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:-50px;"><b>For Conscious Child or Adult:</b>
+<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:-30px;"><b>For Conscious Child or Adult:</b>
 
 <p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:10px;">Symptoms:</p>
 
