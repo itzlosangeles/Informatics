@@ -61,7 +61,7 @@
 
    
  
-<h6 style="background-color:#333399;color:white;text-align:left; font-size:30px;padding: 2px 20px 2px 20px;margin-top:30px;">2. Treating Burns</h6>
+<h6 style="background-color:#333399;color:white;text-align:left; font-size:30px;padding: 2px 20px 2px 20px;margin-top:40px;">2. Treating Burns</h6>
 
 <p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:-10px;">Before you apply treatment to burns, you need to identify the burn type and the severity of the burn. There are four kinds of burns:</p>
  
