@@ -137,7 +137,7 @@
 
 <h6 style="background-color:#333399;color:white;text-align:left; font-size:30px;padding: 2px 20px 2px 20px;margin-top:40px;">3. Treating Cuts and Scrapes</h6>
 
-<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:-30px;">Blood is a vital component of our bodies. When someone is bleeding, you want to prevent as much blood from leaving their body as possible. Try and find a clean cloth or bandage. </p>
+<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:-10px;">Blood is a vital component of our bodies. When someone is bleeding, you want to prevent as much blood from leaving their body as possible. Try and find a clean cloth or bandage. </p>
 
 <p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:10px;"><b>Then:</b>
 
