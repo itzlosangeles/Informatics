@@ -83,7 +83,7 @@
    <li>This is usually a very painful type of burn.</li>
 </ul>
 
-<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;"><b>Third-degree burn:</p></b>
+<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;"><b>Third-degree burn:</b>
 
    <ul style="font-size:20px">
    <li>All of the inner layer of skin is burnt.</li>
@@ -100,13 +100,13 @@
 
 <p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;"><b>Additionally, there are two kinds of burn severities:</b> a minor burn and a major burn.</p>
 
-<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;"><b>Minor Burn:</p></b>
+<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;"><b>Minor Burn:</b>
 
    <ul style="font-size:20px">
    <li>First-degree burns and mild second-degree burns.</li>
  </ul>
 
-<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;"><b>Major Burn:</p></b>
+<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;"><b>Major Burn:</b>
 
    <ul style="font-size:20px">
    <li>Moderate second-degree burns to fourth-degree burns.</li>
