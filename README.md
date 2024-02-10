@@ -24,6 +24,7 @@
 
 <h3 style="color:#333399;text-align:left; font-size:30px;padding: 2px 20px 2px 20px;">Prepare Yourself with the Right Gear</h3>
 
+
 <p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;">Emergency or first aid kits differ in contents, but the most important are:</p>
 
 <ul style="font-size:20px">
