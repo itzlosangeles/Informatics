@@ -125,7 +125,7 @@
 
 <p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;">Major burns are very serious injuries that require medical assistance.</p>
 
-<p style="font-size:20px;text-align:left;line-height:10px;font-family:verdana;"><b>To help someone who has suffered from a major burn:</p></b>
+<p style="font-size:20px;text-align:left;line-height:10px;font-family:verdana;"><b>To help someone who has suffered from a major burn:</b>
 
   <ul style="font-size:20px;background-color:#82CAFF;padding: 2px 20px 2px 20px;">
   <li>Do not apply ointments.</li>
@@ -135,11 +135,11 @@
 
 <img src="burn.png"></img>
 
-<h6 style="background-color:#333399;color:white;text-align:left; font-size:30px;padding: 2px 20px 2px 20px;margin-top:50px;">3. Treating Cuts and Scrapes</h6>
+<h6 style="background-color:#333399;color:white;text-align:left; font-size:30px;padding: 2px 20px 2px 20px;margin-top:40px;">3. Treating Cuts and Scrapes</h6>
 
 <p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:-50px;">Blood is a vital component of our bodies. When someone is bleeding, you want to prevent as much blood from leaving their body as possible. Try and find a clean cloth or bandage. </p>
 
-<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:10px;"><b>Then:</p></b>
+<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:10px;"><b>Then:</b>
 
 <ul style="font-size:20px;background-color:#82CAFF;padding: 2px 20px 2px 20px;">
   <li>Apply gentle pressure for 20 to 30 minutes.</li>
@@ -152,7 +152,7 @@
 
 <p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:10px;">The body is usually very quick at patching up small cuts and scrapes. But deeper wounds may require medical attention.</p>
 
-<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:10px;"><b> With deep wounds:</p></b>
+<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:10px;"><b> With deep wounds:</b>
 
 <ul style="font-size:20px;background-color:#82CAFF;padding: 2px 20px 2px 20px;">
   <li>Apply pressure.</li>
@@ -162,7 +162,7 @@
 
 <img src="wound.jpg">
 
-<h6 style="background-color:#333399;color:white;text-align:left; font-size:30px;padding: 2px 20px 2px 20px;margin-top:50px;">4. Treating Heat Exhaustion</h6>
+<h6 style="background-color:#333399;color:white;text-align:left; font-size:30px;padding: 2px 20px 2px 20px;margin-top:40px;">4. Treating Heat Exhaustion</h6>
 
 <p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:-50px;">Heat exhaustion occurs due to prolonged exposure to high temperatures, especially when the person is doing strenuous activities or hasn’t had enough WATER.</p>
 
@@ -189,7 +189,7 @@
 
 <img src="heat.jpg">
 
-<h6 style="background-color:#333399;color:white;text-align:left; font-size:30px;padding: 2px 20px 2px 20px;margin-top:50px;">5. Treating Fractures</h6>
+<h6 style="background-color:#333399;color:white;text-align:left; font-size:30px;padding: 2px 20px 2px 20px;margin-top:40px;">5. Treating Fractures</h6>
 
 <p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:-50px;">Sometimes it’s very easy to tell if someone has suffered a fractured bone. But sometimes it’s not.</p>
 
@@ -205,9 +205,9 @@
 
 <img src="fracture.png">
 
-<h6 style="background-color:#333399;color:white;text-align:left; font-size:30px;padding: 2px 20px 2px 20px;margin-top:50px;">6. Choking Maneuver</h6>
+<h6 style="background-color:#333399;color:white;text-align:left; font-size:30px;padding: 2px 20px 2px 20px;margin-top:40px;">6. Choking Maneuver</h6>
 
-<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:-50px;"><b>For Conscious Child or Adult:</p></b>
+<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:-50px;"><b>For Conscious Child or Adult:</b>
 
 <p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:10px;">Symptoms:</p>
 
@@ -252,7 +252,7 @@
 
 <p style="font-size:20px;text-align:center;line-height:30px;margin-bottom:30px;background-color:red;color:white;padding: 15px 30px 15px 30px;">First Aid does not just promote faster recovery it helps save lives.</p>
 	
-<p style="font-size:20px;text-align:left;line-height:30px;margin-bottom:10px;"><b>References:</p>
+<p style="font-size:20px;text-align:left;line-height:30px;margin-bottom:10px;"><b>References:</b>
 
 <p style="font-size:15px;text-align:left;line-height:20px;margin-bottom:30px;">Schauf, C. (2023, April 28). 10 basic first aid training tips & procedures for any emergency. Uncharted Supply Company. https://unchartedsupplyco.com/en-au/blogs/the-four-pillars/basic-first-aid</p>
 
