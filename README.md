@@ -1,9 +1,11 @@
+<!DOCTYPE html>
 <html>
-<head>
+  <head>
+   <body background="bg4.jpg">
 
 
 
-<img src="Image04.png">
+<img src="Image04-nobg.png">
 
 <h1 style="text-align:center; font-size:50px;color:red;margin-top:-70px;">FIRST AID: SAVE A LIFE</h1>
 
@@ -239,20 +241,19 @@
 
 <img src="choke.jpg">
 
-<hr>
 
+<h6 style="<i>text-align:left; font-size:30px;padding: 2px 20px 2px 20px;margin-top:40px">Take Note:</h6></i>
 
+<p style="font-size:20px;text-align:center;line-height:30px;margin-bottom:40px;">Accidents will always happen despite any measure of preventative procedure and care.<br>Because of this, individuals who are properly trained and with the the correct equipment are a huge help in ensuring better safety for everyone.<br> Without proper First Aid, a simple injury could become severe and in some cases fatalities can occur as a result of lack of immediate medical treatment.</p> 
 
-<p style="font-size:20px;text-align:center;line-height:30px;margin-bottom:30px;">Accidents will always happen despite any measure of preventative procedure and care.<br>Because of this, individuals who are properly trained and with the the correct equipment are a huge help in ensuring better safety for everyone.<br> Without proper First Aid, a simple injury could become severe and in some cases fatalities can occur as a result of lack of immediate medical treatment.</p> 
-
-<img style="width: 33%;" src="white.jpg">
+<img style="width: 33%;" src="bg4.jpg">
 <img style="width: 33%;" src="fa1.jpg">
-<img style="width: 33%;" src="white.jpg">
+<img style="width: 33%;" src="bg4.jpg">
 
 
 <p style="font-size:20px;text-align:center;line-height:30px;margin-bottom:30px;background-color:red;color:white;padding: 15px 30px 15px 30px;">First Aid does not just promote faster recovery it helps save lives.</p>
 	
-<p style="font-size:20px;text-align:left;line-height:30px;margin-bottom:10px;"><b>References:</b>
+<p style="font-size:20px;text-align:left;line-height:10px;margin-bottom:5px;"><b>References:</b>
 
 <p style="font-size:15px;text-align:left;line-height:20px;margin-bottom:30px;">Schauf, C. (2023, April 28). 10 basic first aid training tips & procedures for any emergency. Uncharted Supply Company. https://unchartedsupplyco.com/en-au/blogs/the-four-pillars/basic-first-aid</p>
 
