@@ -164,7 +164,7 @@
 
 <h6 style="background-color:#333399;color:white;text-align:left; font-size:30px;padding: 2px 20px 2px 20px;margin-top:40px;">4. Treating Heat Exhaustion</h6>
 
-<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:-30px;">Heat exhaustion occurs due to prolonged exposure to high temperatures, especially when the person is doing strenuous activities or hasn’t had enough WATER.</p>
+<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:-10px;">Heat exhaustion occurs due to prolonged exposure to high temperatures, especially when the person is doing strenuous activities or hasn’t had enough WATER.</p>
 
 <p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:10px;"><b>Symptoms of Heat Exhaustion include:</b>
 
@@ -191,7 +191,7 @@
 
 <h6 style="background-color:#333399;color:white;text-align:left; font-size:30px;padding: 2px 20px 2px 20px;margin-top:40px;">5. Treating Fractures</h6>
 
-<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:-30px;">Sometimes it’s very easy to tell if someone has suffered a fractured bone. But sometimes it’s not.</p>
+<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:-10px;">Sometimes it’s very easy to tell if someone has suffered a fractured bone. But sometimes it’s not.</p>
 
 <p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:10px;"><b>If you suspect someone of having a fracture:</b>
 
@@ -207,7 +207,7 @@
 
 <h6 style="background-color:#333399;color:white;text-align:left; font-size:30px;padding: 2px 20px 2px 20px;margin-top:40px;">6. Choking Maneuver</h6>
 
-<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:-30px;"><b>For Conscious Child or Adult:</b>
+<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:-10px;"><b>For Conscious Child or Adult:</b>
 
 <p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:10px;">Symptoms:</p>
 
@@ -226,7 +226,7 @@
   <li>Repeat until obstruction is coughed up, or victim begins breathing</li> 
 </ul>
 
-<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:10px;"><b>For Unconscious Child or Adult</p></b>
+<p style="font-size:20px;text-align:left;line-height:30px;font-family:verdana;margin-top:10px;"><b>For Unconscious Child or Adult</b>
 
 <ul style="font-size:20px;padding: 2px 20px 2px 20px;background-color:#82CAFF">
   <li>Have someone call rescue</li>
