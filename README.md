@@ -2,8 +2,6 @@
   <head>
    <body background="bg4.jpg">
 
-
-
 <img src="Image04-nobg.png">
 
 <h1 style="text-align:center; font-size:50px;color:red;margin-top:-70px;">FIRST AID: SAVE A LIFE</h1>
