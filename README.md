@@ -1,6 +1,5 @@
 
 <!DOCTYPE html>
-<html>
   <head>
    <body background="bg4.jpg">
 
