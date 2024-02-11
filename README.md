@@ -4,7 +4,6 @@
 body {
     background-color:#d24dff
 }
-</syle>
 </head>
 </html>
 
