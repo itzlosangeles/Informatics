@@ -243,7 +243,7 @@
 
 <h6 style="<i>text-align:left; font-size:30px;padding: 2px 20px 2px 20px;margin-top:40px">Take Note:</h6>
 
-<p style="font-size:20px;text-align:center;line-height:30px;margin-bottom:40px;">Accidents will always happen despite any measure of preventative procedure and care.<br>Because of this, individuals who are properly trained and with the the correct equipment are a huge help in ensuring better safety for everyone.Without proper First Aid, a simple injury could become severe and in some cases fatalities can occur as a result of lack of immediate medical treatment.</p> 
+<p style="font-size:20px;text-align:center;line-height:30px;margin-bottom:40px;">Accidents will always happen despite any measure of preventative procedure and care.Because of this, individuals who are properly trained and with the the correct equipment are a huge help in ensuring better safety for everyone.Without proper First Aid, a simple injury could become severe and in some cases fatalities can occur as a result of lack of immediate medical treatment.</p> 
 
 <img style="width: 33%;" src="bg4.jpg">
 <img style="width: 33%;" src="fa1.jpg">
