@@ -1,6 +1,12 @@
 <html>
 <head>
-
+<style>
+body {
+    background-color:#d24dff
+}
+</syle>
+</head>
+</html>
 
 
 <img src="Image04.png">
